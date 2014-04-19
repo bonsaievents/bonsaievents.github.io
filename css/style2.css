@@ -807,8 +807,8 @@
 		min-height: 526px;
 	}
 	.da-slide label span {
-		width: 150px;
-		height: 150px;
+		width: 200px;
+		height: 120px;
 		background-size: 100% 100%;
 		margin: 3em auto 1em;
 	}
@@ -837,7 +837,7 @@
 	}
 	.da-slide label span {
 		width: 150px;
-		height: 150px;
+		height: 90px;
 		background-size: 100% 100%;
 		margin: 3em auto 1em;
 	}
@@ -869,8 +869,8 @@
 		min-height: 400px;
 	}
 	.da-slide label span {
-		width: 120px;
-		height: 120px;
+		width: 150px;
+		height: 90px;
 		background-size: 100% 100%;
 		margin: 1.5em auto 0em;
 	}
@@ -910,7 +910,7 @@
 	}
 	.da-slide label span {
 		width:90px;
-		height:90px;
+		height:54px;
 		background-size: 100% 100%;
 		margin: 1.5em auto 0em;
 	}

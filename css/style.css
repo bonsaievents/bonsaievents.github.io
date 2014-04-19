@@ -384,7 +384,6 @@ ZOOM DEFAULT
 	min-height: 535px;
 	position: absolute;
 	width: 100%;
-	bottom: -3%;
 	z-index: -1;
 }
 /*----//End-Works----*/
@@ -453,7 +452,7 @@ ZOOM DEFAULT
 }
 .services-grid-right{
 	float:right;
-	width: 80%;
+	width: 75%;
 }
 .services-grid-right h4{
 	font-size: 1.5em;
@@ -2000,7 +1999,8 @@ h2.resp-accordion:first-child {
 		width: 64%;
 	}
 	.services-grid {
-		width: 42.6%;
+		width: 41%;
+		height: 140px;
 		margin-right: 2%;
 		margin-bottom: 2%;
 	}
@@ -2039,8 +2039,10 @@ h2.resp-accordion:first-child {
 		width: 74%;
 	}
 	.services-grid {
-		width: 41%;
-		margin-right: 2%;
+		width: 95%;
+		height: 150px;
+		margin-right: auto;
+		margin-left: auto;
 		margin-bottom: 2%;	
 	}
 	.shortcode-info-box a {
@@ -2164,7 +2166,7 @@ h2.resp-accordion:first-child {
 		width: 32px;
 		height: 32px;
 		position: absolute;
-		top: 28px;
+		top: 7px;
 		left: 11px;
 		background: url(../images/nav-icon.png) no-repeat;
 	}
@@ -2225,7 +2227,7 @@ h2.resp-accordion:first-child {
 }
 /*--//media Quries for 768px-smartphones-*/
 /*--media Quries for 1024px-laptops-*/
-@media only screen and (max-width:1024px) and (min-width:768px) {
+@media only screen and (max-width:1024px) and (min-width:888px) {
 	.wrap{
 		width:80%;
 	}
@@ -2233,7 +2235,8 @@ h2.resp-accordion:first-child {
 		width: 74%;
 	}
 	.services-grid {
-		width: 41%;
+		width: 40%;
+		height: 150px;
 		margin-right: 2%;
 		margin-bottom: 2%;	
 	}
@@ -2358,7 +2361,7 @@ h2.resp-accordion:first-child {
 		width: 32px;
 		height: 32px;
 		position: absolute;
-		top: 28px;
+		top: 7px;
 		left: 11px;
 		background: url(../images/nav-icon.png) no-repeat;
 	}
@@ -2493,7 +2496,7 @@ h2.resp-accordion:first-child {
 		width: 32px;
 		height: 32px;
 		position: absolute;
-		top: 28px;
+		top: 7px;
 		left: 11px;
 		background: url(../images/nav-icon.png) no-repeat;
 	}
@@ -2701,7 +2704,7 @@ h2.resp-accordion:first-child {
 		width: 32px;
 		height: 32px;
 		position: absolute;
-		top: 28px;
+		top: 7px;
 		left: 11px;
 		background: url(../images/nav-icon.png) no-repeat;
 	}
